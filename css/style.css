@@ -1,0 +1,78 @@
+.blocoRosa {
+    background-color: #cd5c5c;
+    height: 100vh;
+    padding-top: 3%;
+}
+
+.blocoVerde {
+    background-color: #C1EAD0;
+    height: 100vh;
+    padding-top: 9%;
+}
+
+.configPosition{
+    padding-top: 12%;
+}
+
+.configCor {
+    color: #cd5c5c;
+}
+
+img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.configLink {
+    text-decoration: none;
+    color: #C1EAD0;
+    font-size: x-large;
+}
+
+.configLink:hover {
+    text-decoration: none;
+    color: #2f4f4f;
+}
+
+.configLink1 {
+    text-decoration: none;
+    color: #2f4f4f;
+}
+
+.configLink1:hover {
+    text-decoration: none;
+    opacity: 0.5;
+}
+
+.configLinkEmail {
+    text-decoration: none;
+    color: #cd5c5c;
+}
+
+.configLinkEmail:hover {
+    text-decoration: none;
+    opacity: 0.5;
+}
+
+.textCor {
+    color: #2f4f4f;
+}
+
+.configIcon {
+    font-size: 50px;
+    color: #2f4f4f;
+}
+
+.configIcon:hover {
+    opacity: 0.5;
+}
+
+.alinhamento {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
