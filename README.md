@@ -17,7 +17,7 @@ O projeto foi estruturado, a partir da atividade final de módulo de Frontend 1,
 
 # Tecnologias utilizadas
 ## Front end
-* HTML / CSS / JavaScrip;
+* HTML / CSS;
 * BootsTrap;
 
 # Autor
